@@ -133,4 +133,4 @@ Unauthorized use, reproduction, modification, or distribution of this project, i
 Proper reference must be given if any part of this project is used:<br> 
 Chocolate Sales Analysis: Ilaha Habibova - https://github.com/Ilaha-Habibova/Chocolate-Sales-Analysis
 
-The dataset link: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data
+The dataset source: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data
